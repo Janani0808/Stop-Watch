@@ -122,7 +122,11 @@ MainPage.xaml
     </phone:PhoneApplicationPage.ApplicationBar>
 </phone:PhoneApplicationPage>
 
+
+
 ElapsedTimeFormat.cs
+
+
 
 namespace StopWatchExample
 {
@@ -134,7 +138,11 @@ namespace StopWatchExample
     }
 }
 
+
+
 App.xaml.cs:
+
+
 
 using System;
 using System.Collections.Generic;
